@@ -1,4 +1,4 @@
-## Hi there 👋
+##  Hello, I'm ZHANGZHIRUI 👋
 - 🔭 I’m currently working on school projects 
 - 🌱 I’m currently learning GitHub, Python, and AI technology
 
