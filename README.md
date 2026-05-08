@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on school projects 
+- 🌱 I’m currently learning GitHub, Python, and AI technology
 
 **zzr286114-ui/zzr286114-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
