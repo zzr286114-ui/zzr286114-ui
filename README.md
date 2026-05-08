@@ -1,6 +1,14 @@
 ##  Hello, I'm ZHANGZHIRUI 👋
 - 🔭 I’m currently working on school projects 
 - 🌱 I’m currently learning GitHub, Python, and AI technology
+- 👯 I’m looking to collaborate on open-source projects, AI applications, and creative tech ideas
+- 🤔 I’m looking for help with machine learning, data analysis, and full-stack development.
+- 💬 Ask me about AI, and creative ideas.
+- 📫 How to reach me:zzr286114@gmail.com
+- 😄 Pronouns: he
+- ⚡ Fun fact:I enjoy turning creative ideas into real projects.
+
+
 
 **zzr286114-ui/zzr286114-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
